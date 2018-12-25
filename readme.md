@@ -1,9 +1,10 @@
-# ExternalLinks.js 🔗👉🏻
+
+# 🔗 ExternalLinks.js
 
 Just a simple script to locate external links and make then open in a new tab.
 
 
-## Init 🍳
+## Init
 ```
 ExternalLinks.init();
 
